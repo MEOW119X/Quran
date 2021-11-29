@@ -1,2 +1,2 @@
 # Quran
-all about Quran such as Quran Translation, Quran Transliteration etc.
+All about Quran such as Quran Translation, Quran Transliteration etc.
